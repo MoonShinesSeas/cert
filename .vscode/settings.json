@@ -1,0 +1,16 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\jpbc\\jars\\jna-3.2.5.jar",
+        "d:\\jpbc\\jars\\jpbc-api-2.0.0.jar",
+        "d:\\jpbc\\jars\\jpbc-benchmark-2.0.0.jar",
+        "d:\\jpbc\\jars\\jpbc-crypto-2.0.0.jar",
+        "d:\\jpbc\\jars\\jpbc-mm-2.0.0.jar",
+        "d:\\jpbc\\jars\\jpbc-pbc-2.0.0.jar",
+        "d:\\jpbc\\jars\\jpbc-plaf-2.0.0.jar",
+        "d:\\jpbc\\jars\\bcprov-jdk18on-1.78.1.jar",
+        "d:\\code\\java\\bls\\jars\\bcpkix-jdk18on-1.78.1.jar",
+        "d:\\code\\java\\bls\\jars\\hutool-all-5.8.25.jar",
+        "d:\\jpbc\\jars\\fastjson-1.2.83.jar"
+    ]
+}
